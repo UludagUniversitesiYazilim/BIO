@@ -1,0 +1,91 @@
+to: mutationtaster
+name: Hakan Keleş
+transcript: ENST00000379370
+snippets refers to: gDNA
+first wild type base: 28669
+last wild type base: 28672
+
+to: polyphen
+name: Emre Horsanalı
+protein: P41567
+position: 59
+AA1: L
+AA2: P
+
+to: mutationtaster
+name: Yetiş Yılmaz
+transcript: ENST00000270142
+snippets refers to: CDS
+alteration: C[A/G]TGTTCATGAGTTTGGAGATAATACAGCAGGCTGT
+name of alteration: CHRND_L63P
+
+to: polyphen
+name: Hasan Kot
+protein: P41567
+position: 59
+AA1: L
+AA2: P
+
+to: polyphen
+name: Ahmet Sonuç
+protein: P41567
+position: 59
+AA1: L
+AA2: P
+
+to: mutationtaster
+name: Berkay Dedeoglu
+transcript: ENST00000379370
+snippets refers to: gDNA
+first wild type base: 28669
+last wild type base: 28672
+
+to: polyphen
+name: Ismail Can
+protein: P41567
+position: 59
+AA1: L
+AA2: P
+
+to: mutationtaster
+name: Necla Kayagencer
+transcript: ENST00000270142
+snippets refers to: CDS
+alteration: C[A/G]TGTTCATGAGTTTGGAGATAATACAGCAGGCTGT
+name of alteration: CHRND_L63P
+
+to: polyphen
+name: Suat Kama
+protein: P41567
+position: 59
+AA1: L
+AA2: P
+
+to: polyphen
+name: Ahmet Sonuç
+protein: P41567
+position: 59
+AA1: L
+AA2: P
+
+to: mutationtaster
+name: Ayşegül Yılmaz
+gene: KlMn3
+transcript: EN2365535896
+last wild type base: 12 
+inserted bases: 26
+
+to: mutationtaster
+name: Ayşegül Yılmaz 
+gene: pljh
+transcript: EN256321458200
+new base: 45
+position: 23
+
+to: polyphen
+name: İsmail Candaş
+protein: EN8965424562
+position: 20
+AA1: A
+AA2: B
+
