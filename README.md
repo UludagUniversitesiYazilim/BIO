@@ -14,6 +14,7 @@ Program kendisine verilen büyük veri dosyasındaki bilgilere göre uzak verita
 - Python v3.0 ve üstü
 - tkinter v8.0 ve üstü
 - requests kütüphanesi (python3 için)
+- BeautifulSoup4 kütüphanesi
 
 ## Çalıştırılabilir dosya için gereksinimler
 
