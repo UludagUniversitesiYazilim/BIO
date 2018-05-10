@@ -168,6 +168,8 @@ AA2: B
 ### Danışman
 **Gıyasettin Özcan**
 
+---
+
 ### Geliştiriciler
 
 **Emre Horsanalı**
