@@ -167,7 +167,7 @@ AA2: B
 ```
 
 ### Danışman
-**Yrd. Doç. Gıyasettin Özcan**
+**Dr. Öğr. Üyesi Gıyasettin ÖZCAN**
 
 ---
 
