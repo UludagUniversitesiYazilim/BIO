@@ -166,13 +166,14 @@ AA2: B
 ```
 
 ### Danışman
-**Gıyasettin Özcan**
+**Yrd. Doç. Gıyasettin Özcan**
 
 ---
 
 ### Geliştiriciler
 
 **Emre Horsanalı**
+
 **Berkay Dedeoğlu**
 
 
