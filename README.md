@@ -17,7 +17,7 @@ Program kendisine verilen büyük veri dosyasındaki bilgilere göre uzak verita
 
 ## Çalıştırılabilir dosya için gereksinimler
 
-- Yalnızca çalıştırılabilir dosyaya çift tıklamanız yeterli. 
+- Yalnızca /build/exe.win-amd64-3.6/main.exe dosyasına çift tıklamanız yeterlı.
 
 ## Örnek girdi dosyası
 Proje içerisinde ./input/input dosyası örnek girdi olarak kullanılabilir.
